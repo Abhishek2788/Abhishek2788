@@ -60,6 +60,9 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek2788&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek2788&theme=radical" />
 </p>
 
