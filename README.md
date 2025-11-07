@@ -18,7 +18,7 @@
 ### 💫 About Me
 - 🎓 Completed **Bachelor of Technology in Computer Science & Engineering**  
 - 💻 Passionate about **Full Stack Development** & **Data Analytics**  
-- 🌱 Currently exploring **Next.js**, **Power BI**, and **Advanced Backend Development**  
+- 🌱 Good hands on experience on **Next.js**, **Power BI**, and **Backend Development**  
 - 🧠 I love solving real-world problems using **code** and **data**  
 - 🚀 Always learning, building, and growing  
 
