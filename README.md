@@ -154,20 +154,20 @@
 ### 🌟 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/Abhishek2788/nextjs-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek2788&repo=nextjs-portfolio&theme=radical" />
+  <a href="https://github.com/Abhishek2788/nextjs-portfolio](https://github.com/Abhishek2788/urban-ecommerce-fullstack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek2788&repo=urban-ecommerce-fullstack&theme=radical" />
   </a>
-  <a href="https://github.com/Abhishek2788/PowerBI-PhoneSales-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek2788&repo=PowerBI-PhoneSales-Dashboard&theme=radical" />
+  <a href="https://github.com/Abhishek2788/gamehok-assignment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek2788&repo=gamehok-assignment&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Abhishek2788/ecommerce-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek2788&repo=ecommerce-site&theme=radical" />
+  <a href="https://github.com/Abhishek2788/Phone-Sales-Data-Analysis-PowerBI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek2788&repo=Phone-Sales-Data-Analysis-PowerBI&theme=radical" />
   </a>
-  <a href="https://github.com/Abhishek2788/data-cleaning-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek2788&repo=data-cleaning-analysis&theme=radical" />
+  <a href="https://github.com/Abhishek2788/Sales-Analysis-project-Excel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek2788&repo=Sales-Analysis-project-Excel&theme=radical" />
   </a>
 </p>
 
